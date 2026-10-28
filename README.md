@@ -1,4 +1,4 @@
-# IMD
+# India Meteorological Department
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,108 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-IMD is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mausam.imd.gov.in/
+India Meteorological Department (IMD; Hindi भारत मौसम विज्ञान विभाग) is the national weather agency of India under the Ministry of Earth Sciences, Government of India, responsible for weather forecasting, climate monitoring and meteorological services. Through its IMD API Management portal (api.imd.gov.in), with self-service account registration, IMD offers developers JSON APIs for current weather observations, city-level forecasts, district nowcasts and warnings, rainfall data and marine bulletins, documented in an HTML API reference and a PDF API document.
+
+**Areas:** Company · Weather · Meteorology · India · Public-Data · Climate · Government
+
+## India Meteorological Department on APIs.io
+
+Everything profiled for India Meteorological Department is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/india-meteorological-department/](https://apis.io/providers/india-meteorological-department/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [IMD Weather API](https://apis.io/apis/india-meteorological-department/imd-weather-api/) — JSON APIs under https://api.imd.gov.in/api/v1/ documented in IMD's HTML API reference, covering city weather forecasts (7 days), subdivision and…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [India Meteorological Department Authentication](https://apis.io/security/india-meteorological-department/india-meteorological-department-authentication/)
+- [India Meteorological Department Domain Security](https://apis.io/security/india-meteorological-department/india-meteorological-department-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [India Meteorological Department Scopes](https://apis.io/scopes/india-meteorological-department/india-meteorological-department-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [India Meteorological Department Plans Pricing](https://apis.io/plans/india-meteorological-department/india-meteorological-department-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [India Meteorological Department Rate Limits](https://apis.io/rate-limits/india-meteorological-department/india-meteorological-department-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mausam.imd.gov.in/)
+- [Documentation](https://mausam.imd.gov.in/Forecast/marquee_data/API_doc.pdf)
+- [API reference](https://api.imd.gov.in/public/api_reference.html)
+- [Sign up](https://api.imd.gov.in/public/register.php)
+- [Support](https://api.imd.gov.in/public/contact.php)
+
+## API Evangelist rating
+
+**Kin Score 19.1** — emerging · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 13.2 |
+
+**Agent readiness 11.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 21.6** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/india-meteorological-department/](https://apis.io/providers/india-meteorological-department/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for India Meteorological Department: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/india-meteorological-department/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
